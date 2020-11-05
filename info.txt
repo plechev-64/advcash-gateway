@@ -1,0 +1,8 @@
+Name: ADVCash Gateway;
+Version: 1.1.1;
+Support Core: 16.24.0;
+ItemID: 16086;
+Parent Addon: user-balance;
+Description: Подключение сайта к платежному агрегатору ADVCash https://advcash.com;
+Author: Плечев Андрей;
+Author URI: http://codeseller.ru/;
